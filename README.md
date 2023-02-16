@@ -2,13 +2,18 @@
 
 ![ecommerce](https://user-images.githubusercontent.com/72680556/218602455-25a1e4f7-e2e2-48db-9ada-e4e9f20da545.jpg)
 
-# Welcome
+# Introduction
 
 It's no secret that using Tailwind CSS can save you a lot of time when creating beautiful apps. It also provides consistency in your UI.
 
 NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native. NativeWind components can be shared between platforms and will output their styles as CSS StyleSheet on web and StyleSheet.create for native.
 
 Its goals are to provide a consistent styling experience across all platforms, and improve Developer UX and code maintainability.
+
+# Before running code for personnal use.
+<pre>
+<code> npm install </code>
+</pre>
 
 # Install NativeWind usign Expo
 You will need to install nativewindand it's peer dependency tailwindcss.
